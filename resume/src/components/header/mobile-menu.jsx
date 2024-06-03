@@ -1,4 +1,5 @@
 
+import "./mobileMenu.css";
 
 const MobileMenu = () => {
 	return (
